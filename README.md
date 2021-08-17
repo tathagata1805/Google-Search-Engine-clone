@@ -29,3 +29,5 @@ const UseGoogleSearch = (term) => {
 
     return {data};
 };
+
+This website uses Material-UI which eases the styling part. Use your own API key to activate the search engine and feel free to clone the repository and personalize the project.
